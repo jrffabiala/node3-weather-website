@@ -1,6 +1,3 @@
-'use-strict'
-console.log('Client JavaScript');
-
 const weatherForm = document.querySelector('form');
 
 const search = document.querySelector('input');
